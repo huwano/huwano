@@ -3,8 +3,6 @@
 🎓 Student der Praktischen Informatik (B.Sc.) an der HTW Saar  
 📍 Saarbrücken, Deutschland  
 🧠 Interessiert an Webentwicklung, Automatisierung & KI  
-☕ Koffeinliebhaber & Code-Enthusiast
-
 ---
 
 ## 🚀 Tech Stack
