@@ -17,32 +17,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
----
-
-## 📊 GitHub Statistiken
-
-![Valentins GitHub Stats](https://github-readme-stats.vercel.app/api?username=huwano&show_icons=true&theme=radical)
-![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=huwano&layout=compact&theme=radical)
------
-## 📏 Code-Zeilen insgesamt
-![Zeilen Code](https://github-profile-summary-cards.vercel.app/api/cards/lines-of-code?username=huwano&theme=radical)
-![Beste Coder-Zeiten](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huwano&theme=radical)
-
-
-
-## 🔥 Aktivitätsdiagramm
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huwano&theme=radical)
-
----
-
-## 🧩 Besucherzähler
-
-![Besucher](https://komarev.com/ghpvc/?username=huwano&color=blue)
-
----
-
 ## 🌐 Finde mich hier
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
