@@ -1,12 +1,11 @@
 <!-- README.md -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hallo%2C+ich+bin+Valentin+Straßer;Informatik-Student+%F0%9F%93%9A;Web+%7C+Automatisierung+%7C+KI+%F0%9F%94%8E" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=200&section=header&text=Valentin%20Straßer&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Web%20|%20Automatisierung%20|%20KI&descSize=20&descAlignY=60" alt="header" />
+</p>
 
 <p align="center">
-  📍 Saarbrücken, Deutschland · 🎓 HTW Saar <br/>
-  🧠 Leidenschaft für <strong>Webentwicklung, Automatisierung & KI</strong>
+  🎓 Praktische Informatik @ HTW Saar &nbsp; • &nbsp; 📍 Saarbrücken  
 </p>
 
 ---
